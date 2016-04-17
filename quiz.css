@@ -1,0 +1,70 @@
+header.dbg {
+	border-width: 1px;
+	border-style: dotted;
+	border-color: lightgray;
+}
+
+h1 {
+	text-align: center;
+}
+
+img.myImg {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p {
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+h4.myH {
+	font-weight: bold;
+}
+
+h4.dgb{
+	background-color: darkgray;
+	color: yellow;
+
+}
+
+
+
+
+
+#cardOne {
+	border-width: 1px;
+	border-style: solid;
+	border-color: lightblue;
+	width: 30%;
+	float: left;
+}
+
+#cardTwo {
+	border-width: 1px;
+	border-style: solid;
+	border-color: lightblue;
+	width: 30%;
+	float: none;
+	margin: none;
+
+}
+
+#cardThree {
+	border-width: 1px;
+	border-style: solid;
+	border-color: lightblue;
+	width: 30%;
+	float: right;
+
+}
+
+#cardFour {
+	border-width: 1px;
+	border-style: solid;
+	border-color: lightblue;
+	width: 30%;
+
+}
+
