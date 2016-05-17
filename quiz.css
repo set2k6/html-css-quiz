@@ -1,0 +1,74 @@
+/*   Initial CSS    */
+
+header.dbg {
+	border-width: 1px;
+	border-style: dotted;
+	border-color: lightgray;
+}
+
+h1 {
+	text-align: center;
+}
+
+img.myImg {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p {
+	text-align: justify;
+	text-justify: inter-word;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+h4.myH {
+	font-weight: bold;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+h4.dgb {
+	background-color: darkgray;
+	color: yellow;
+}
+
+/*      cards      */
+
+#cardOne {
+	border-width: 1px;
+	border-style: solid;
+	border-color: lightblue;
+	width: 30%;
+	float: left;
+	margin: 20px;
+}
+
+#cardTwo {
+	border-width: 1px;
+	border-style: solid;
+	border-color: lightblue;
+	width: 30%;
+	float: left;
+	margin: 20px;
+}
+
+#cardThree {
+	border-width: 1px;
+	border-style: solid;
+	border-color: lightblue;
+	width: 30%;
+	float: right;
+	margin: 20px;
+}
+
+#cardFour {
+	border-width: 1px;
+	border-style: solid;
+	border-color: lightblue;
+	display: inline-block;
+	width: 30%;
+	margin: 20px;
+}
+
